@@ -1,3 +1,3 @@
-# Playground
+# Projects
 
-1. Docker for data scientists
+1. Docker for data science
